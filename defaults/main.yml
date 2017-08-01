@@ -1,0 +1,21 @@
+
+ispconfig_base_packages:
+  - arj
+  - binutils
+  - bzip2
+  - cabextract
+  - dnsutils
+  - heirloom-mailx
+  - lzop
+  - mcrypt
+  - ntp
+  - ntpdate
+  - php5-cli
+  - php5-mcrypt
+  - php5-mysql
+  - rkhunter
+  - rsync
+  - sudo
+  - unzip
+  - wget
+  - zip

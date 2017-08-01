@@ -1,0 +1,5 @@
+---
+- hosts: [ansible_test]
+  remote_user: debian
+  roles:
+    - gcoop-libre.ispconfig-base
