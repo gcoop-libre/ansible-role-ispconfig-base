@@ -10,9 +10,8 @@ ispconfig_base_packages:
   - mcrypt
   - ntp
   - ntpdate
-  - php-cli
-  - php-mcrypt
-  - php-mysql
+  - php7.3-cli
+  - php7.3-mysql
   - rkhunter
   - rsync
   - sudo
