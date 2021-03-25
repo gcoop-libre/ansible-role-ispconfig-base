@@ -5,17 +5,18 @@ ispconfig_base_packages:
   - bzip2
   - cabextract
   - dnsutils
-  - heirloom-mailx
+  - s-nail 
   - lzop
   - mcrypt
   - ntp
   - ntpdate
-  - php5-cli
-  - php5-mcrypt
-  - php5-mysql
+  - php7.3-cli
+  - php7.3-mysql
   - rkhunter
   - rsync
   - sudo
   - unzip
   - wget
   - zip
+  - nmon
+  - strace
